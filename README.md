@@ -9,4 +9,5 @@
 <code>nltk.download('treebank')</code><br>
 4)After running this code exit the python repel and run the following command on the terminal <br>
 <code>sudo apt-get install python-tk</code><br>
+5)These are the prerequisite for running this program 
 
